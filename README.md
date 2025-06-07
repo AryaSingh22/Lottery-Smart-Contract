@@ -40,7 +40,13 @@ This repository contains a simple **Lottery DApp** smart contract written in Sol
 - Frontend with React + Web3.js or Ethers.js
 - Participant limit customization
 - Gas optimization
+## 🎯 Lottery Smart Contract Demo
 
+### 🔧 Contract Deployment
+![Deployment Screenshot](assets/deployment.png)
+
+### 💻 Contract Interaction in Remix
+![Execution Screenshot](assets/contract_run.png)
 ---
 
 Feel free to clone, fork, or suggest improvements. Happy building! 💻
